@@ -1,0 +1,715 @@
+@media (max-width:1440px){
+    .finance {
+        top: 38%;
+        right: 47%;
+    }
+    .tax_prepare {
+        top: 72%;
+        right: 6%;
+    }
+    .reading {
+        top: 32%;
+    }
+    .position_3 {
+        top: 52%;
+        right: 49%;
+    }
+    .position_4 {
+        top: 29%;
+    }
+    .choose_content {
+        margin-top: 135px;
+    }
+}
+@media (max-width:1280px){
+    .tax_coach {
+        top: 15%;
+    }
+    .reading {
+        top: 27%;
+    }
+    .finance {
+        top: 34%;
+    }
+    .youtube {
+        top: 7%;
+    }
+    .tax_prepare {
+        top: 55%;
+    }
+}
+@media (max-width: 1024px){
+    .background_line {
+        width: 37%;
+    }
+    .banner_image {
+        top: 18%;
+    }
+    .tax_coach {
+        top: 28%;
+        right: 40%;
+    }
+    .finance {
+        top: 64%;
+        right: 47%;
+    }
+    .reading {
+        top: 46%;
+        right: 49%;
+    }
+    .youtube {
+        top: 16%;
+        right: 5%;
+    }
+    .tax_prepare {
+        top: 72%;
+        right: 6%;
+    }
+    .position_1 {
+        top: 22%;
+        right: 22%;
+    }
+    .position_2 {
+        top: 30%;
+        right: 37%;
+    }
+    .position_3 {
+        top: 57%;
+        right: 39%;
+    }
+    .position_4 {
+        right: 44%;
+        top: 38%;
+    }
+    .choose_content {
+        margin-top: 10px;
+    }
+}
+@media(max-width:912px){
+    .banner {
+        min-height: 40vh;
+    }
+    .banner_image {
+        top: 16%;
+    }
+    .tax_coach {
+        top: 21%;
+    }
+    .reading {
+        top: 37%;
+        right: 50%;
+    }
+    .youtube {
+        top: 14%;
+        right: 5%;
+    }
+    .finance {
+        top: 65%;
+        right: 40%;
+    }
+    .tax_prepare {
+        top: 65%;
+        right: 6%;
+    }
+}
+@media(max-width:820px){
+    .banner {
+        min-height: 36vh;
+    }
+    .banner_image {
+        top: 20%;
+    }
+    .finance {
+        top: 68%;
+        right: 45%;
+    }
+    .reading {
+        top: 49%;
+        right: 50%;
+    }
+    .youtube {
+        right: 2%;
+    }
+}
+@media (max-width:768px){
+    .banner {
+        min-height: 43vh;
+    }
+    .background_line {
+        display: none;
+    }
+    .banner_image {
+        width: 38%;
+        top: 25%;
+        right: 10%;
+    }
+    .tax_coach p {
+        display: none;
+    }
+    .tax_coach i {
+        height: 40px;
+        width: 40px;
+    }
+    .tax_coach {
+        width: 44px;
+        padding: 2px 2px;
+        top: 38%;
+        right: 40%;
+    }
+    .youtube p {
+        display: none;
+    }
+    .youtube i {
+        height: 40px;
+        width: 40px;
+    }
+    .youtube {
+        width: 45px;
+        padding: 2px 2px;
+        top: 26%;
+        right: 13%;
+    }
+    .finance p {
+        display: none;
+    }
+    .finance i {
+        height: 40px;
+        width: 40px;
+    }
+    .finance {
+        width: 45px;
+        padding: 2px 2px;
+        top: 74%;
+        right: 42%;
+    }
+    .tax_prepare p {
+        display: none;
+    }
+    .tax_prepare i {
+        height: 40px;
+        width: 40px;
+    }
+    .tax_prepare {
+        width: 45px;
+        padding: 2px 2px;
+        top: 49%;
+        right: 5%;
+    }
+    .reading i {
+        height: 45px;
+        width: 45px;
+    }
+    .reading {
+        top: 77%;
+        right: 19%;
+    }
+    .position_1 {
+        top: 31%;
+        right: 20%;
+    }
+    .position_1 img {
+        width: 55%;
+    }
+    .position_2 {
+        top: 38%;
+        right: 36%;
+    }
+    .position_2 img {
+        width: 50%;
+    }
+    .position_3 {
+        top: 80%;
+        right: 35%;
+    }
+    .position_3 img {
+        width: 50%;
+    }
+    .position_4 {
+        top: 54%;
+        right: 13%;
+    }
+    .choose_image {
+        margin: auto;
+    }
+    .choose_image_1 {
+        top: 19%;
+        left: 83%;
+    }
+    .choose_image_2 {
+        top: 36%;
+        left: 7%;
+    }
+    .choose_image_3 {
+        left: 56%;
+    }
+    .choose_content h1 {
+        font-size: 35px;
+        font-weight: 600;
+        margin-top: 60px;
+    }
+    .choose_content p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .start_content h1 {
+        font-size: 20px;
+        font-weight: 600;
+    }
+    .item_1 img {
+        width: 15%;
+    }
+    .item_2 img {
+        width: 15%;
+    }
+    .item_3 img {
+        width: 15%;
+    }
+    .item_4 img {
+        width: 15%;
+    }
+    .start_right_image {
+        justify-content: center;
+    }
+    .start_icon_2 {
+        top: -13%;
+        right: 65%;
+    }
+    .start_icon {
+        right: 16%;
+    }
+    .work_image {
+        margin-top: 15px;
+    }
+    .work_image_2 {
+        margin-top: 15px;
+    }
+    .work_content p {
+        font-size: 12px;
+    }
+    .work_content_2 p {
+        font-size: 10px;
+    }
+    .idictor {
+        top: 13%;
+    }
+    .idictor_2 {
+        top: 12%;
+    }
+    .idictor img {
+        height: 7px;
+    }
+    .idictor_2 img {
+        height: 7px;
+    }
+    .contact_form {
+        padding: 50px 28px;
+        width: 100%;
+    }
+}
+@media (max-width:575px) {
+    .banner {
+        min-height: 120vh;
+    }
+    .nav_content button {
+        margin-left: 0px;
+        border-radius: 20px;
+        padding: 6px 10px;
+    }
+    .background_line {
+        display: none;
+    }
+    .banner_image {
+        width: 60%;
+        top: 0%;
+        left: 20%;
+    }
+    .tax_coach p {
+        display: none;
+    }
+    .tax_coach i {
+        height: 40px;
+        width: 40px;
+    }
+    .tax_coach {
+        width: 44px;
+        padding: 2px 2px;
+        top: 19%;
+        right: 73%;
+    }
+    .youtube p {
+        display: none;
+    }
+    .youtube i {
+        height: 40px;
+        width: 40px;
+    }
+    .youtube {
+        width: 45px;
+        padding: 2px 2px;
+        top: 7%;
+        right: 24%;
+    }
+    .finance p {
+        display: none;
+    }
+    .finance i {
+        height: 40px;
+        width: 40px;
+    }
+    .finance {
+        width: 45px;
+        padding: 2px 2px;
+        top: 51%;
+        right: 67%;
+    }
+    .tax_prepare p {
+        display: none;
+    }
+    .tax_prepare i {
+        height: 40px;
+        width: 40px;
+    }
+    .tax_prepare {
+        width: 45px;
+        padding: 2px 2px;
+        top: 36%;
+        right: 17%;
+    }
+    .reading i {
+        height: 45px;
+        width: 45px;
+    }
+    .reading {
+        top: 50%;
+        right: 33%;
+    }
+    .position_1 {
+        top: 11%;
+        right: 36%;
+    }
+    .position_1 img {
+        width: 55%;
+    }
+    .position_2 {
+        top: 28%;
+        right: 79%;
+    }
+    .position_2 img {
+        width: 50%;
+    }
+    .position_3 {
+        top: 48%;
+        right: 57%;
+    }
+    .position_3 img {
+        width: 50%;
+    }
+    .position_4 {
+        top: 41%;
+        right: 30%;
+    }
+    .banner_content {
+        top: 75%;
+        margin-left: 20px;
+    }
+    .banner_content h1 {
+        margin: 6px 0px;
+    }
+    .banner_content ul {
+        margin: 0;
+    }
+    .banner_content ul span {
+        height: 45px;
+        width: 3px;
+        margin-right: 15px;
+    }
+    .partners {
+        display: inline;
+        margin: 0px;
+        text-align: center;
+    }
+    .partner_1{
+        margin-bottom: 10px;
+    }
+    .partner_2{
+        margin-bottom: 10px;
+    }
+    .partner_3{
+        margin-bottom: 10px;
+    }
+    .partner_4{
+        margin-bottom: 10px;
+    }
+    .partner_5{
+        margin-bottom: 10px;
+    }
+    /* dcdhsbc */
+    .choose_image {
+        margin: auto;
+    }
+    .choose_image_1 {
+        top: 15%;
+        left: 86%;
+    }
+    .choose_image_2 {
+        top: 36%;
+        left: 7%;
+    }
+    .choose_image_3 {
+        left: 56%;
+    }
+    .choose_content h1 {
+        font-size: 35px;
+        font-weight: 600;
+        margin-top: -50px;
+    }
+    .choose_content p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .start_content h1 {
+        font-size: 20px;
+        font-weight: 600;
+    }
+    .item_1 img {
+        width: 7%;
+    }
+    .item_2 img {
+        width: 7%;
+        height: 30px;
+    }
+    .item_3 img {
+        width: 7%;
+        height: 30px;
+    }
+    .item_4 img {
+        width: 7%;
+        height: 30px;
+    }
+    .start_right_image {
+        justify-content: center;
+    }
+    .start_icon_2 {
+        top: -13%;
+        right: 36%;
+    }
+    .start_icon {
+        right: 16%;
+    }
+    .work_main_image {
+        margin-top: 25px;
+    }
+    .work_heading p {
+        font-size: 12px;
+        margin: 0px 10px 0px 10px;
+    }
+    .work_position_image_1 {
+        top: 7%;
+        left: 74%;
+    }
+    .work_position_image_2 {
+        top: 35%;
+        left: 17%;
+    }
+    .work_position_image_3 {
+        left: 44%;
+    }
+    .idictor img {
+        display: none;
+    }
+    .idictor {
+        top: -24%;
+        left: 0%;
+    }
+    .work_content {
+        margin-top: -50px;
+    }
+    .work_content h1 {
+        font-size: 20px;
+    }
+    .work_content p {
+        font-size: 11px;
+    }
+    .work_content_2 h1 {
+        font-size: 30px;
+    }
+    .work_content_2 {
+        text-align: left;
+        margin-top: 80px;
+    }
+    .work_content_2 h1 {
+        font-size: 20px;
+    }
+    .idictor_2 {
+        top: -106%;
+        left: 0%;
+    }
+    .work_content_2 p {
+        font-size: 11px;
+    }
+    .work_image_2 {
+        margin-top: 24px;
+    }
+    .idictor_2 img {
+        display: none;
+    }
+    .work_position_image_2_2 {
+        right: 21%;
+    }
+    .work_position_image_1_2 {
+        top: -15%;
+    }
+    .keep_touch {
+        margin-top: 50px;
+        margin-bottom: 0px;
+    }
+    .keep_touch p {
+        font-size: 12px;
+        margin: 20px 10px;
+    }
+    .contact_content h2 {
+        margin-top: 25px;
+    }
+    .contact_form {
+        padding: 41px 20px;
+        width: 100%;
+    }
+    @media (max-width: 575px){
+        .banner {
+            min-height: 106vh;
+        }
+    }
+    @media (max-width: 540px){
+        .banner {
+            min-height: 75vh;
+        }
+        .banner_image {
+            width: 60%;
+            top: 6%;
+            left: 20%;
+        }
+    }
+    @media (max-width: 500px){
+        .banner {
+            min-height: 97vh;
+        }
+        .banner_image {
+            width: 62%;
+            top: 2%;
+        }
+    }
+    @media (max-width: 440px){
+        .banner {
+            min-height: 88vh;
+        }
+    }
+
+    
+}
+@media (max-width: 425px){
+    .banner {
+        min-height: 106vh;
+    }
+    .banner_image {
+        width: 62%;
+        top: -1%;
+    }
+    .tax_coach {
+        top: 16%;
+    }
+    .finance {
+        top: 38%;
+    }
+    .reading {
+        top: 41%;
+        right: 33%;
+    }
+    .tax_prepare {
+        top: 29%;
+    }
+    .youtube {
+        top: 3%;
+    }
+    .position_1 {
+        top: 8%;
+    }
+    .position_2 {
+        top: 23%;
+    }
+    .position_3 {
+        top: 39%;
+    }
+    .position_4 {
+        right: 30%;
+        top: 34%;
+    }
+    .partners {
+        display: inline;
+        text-align: center;
+    }
+.idictor_2 {
+    top: -144%;
+    left: 0%;
+}
+}
+@media(max-width:414px){
+    .banner {
+        min-height: 63vh;
+    }
+    .banner_image {
+        width: 62%;
+        top: 4%;
+    }
+}
+@media(max-width:390px){
+    .banner {
+        min-height: 63vh;
+    }
+}
+@media (max-width: 375px){
+    .banner {
+        min-height: 80vh;
+    }
+    .banner_image {
+        top: 8%;
+    }
+    .finance {
+        left: 14%;
+    }
+    .tax_prepare {
+        top: 33%;
+    }
+    .reading {
+        top: 44%;
+        right: 40%;
+    }
+    .position_3 {
+        top: 45%;
+    }
+    .idictor_2 {
+        top: -162%;
+        left: 0%;
+    }
+}
+@media (max-width: 342px){
+    .banner_image {
+        top: 2%;
+    }
+}
+@media (max-width: 320px){
+    .banner_image {
+        top: 3%;
+    }
+    .finance {
+        top: 42%;
+    }
+    .reading {
+        top: 43%;
+    }
+    .tax_prepare {
+        right: 10%;
+    }
+    .idictor_2 {
+        top: -230%;
+    }
+}
